@@ -1,4 +1,4 @@
 # Bachelor-Project
-Prediction of Human Emotions through Robot Facial Recognition 
+<u>Prediction of Human Emotions through Robot Facial Recognition <u/>
 <br/>Project Aim:
-recognise four different type of emotions (ie. angry, happy, neutral, and sad) through face recognition
+<br/>recognise four different type of emotions (ie. angry, happy, neutral, and sad) through face recognition
